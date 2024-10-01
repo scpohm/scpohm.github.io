@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://scpohm.github.io/FjE/sitemap.FjE.gz
